@@ -1,0 +1,142 @@
+{
+    "adam" : {
+        "name" : "Adam Drummond",
+        "hackathons" : [
+            {
+                "name" : "Hack and Wellness",
+                "prize" : "Best domain from Domain.com",
+                "link" : "https://hackandwellness.devpost.com/"
+            },
+            {
+                "name" : "CorgiHacks",
+                "prize" : "Best domain from GoDaddy",
+                "link" : "https://corgihacks.devpost.com/"
+            }
+        ]
+    },
+    "jenna" : {
+        "name" : "Jenna Everard",
+        "hackathons" : [
+            {
+                "name" : "Own the Internet Hackathon",
+                "prize" : "Finalist & Judges Choice Award",
+                "link" : "https://gitcoin.co/hackathon/own-the-internet"
+            },
+            {
+                "name" : "Columbia DivHacks",
+                "prize" : "Pinterest Anti-Racism Hack Honorable Mention",
+                "link" : "https://divhacks2020.devpost.com/"
+            },
+            {
+                "name" : "CorgiHacks",
+                "prize" : "Third Overall & Best Use of Linode",
+                "link" : "https://corgihacks.devpost.com/"
+            }
+        ]
+    },
+    "ahelee" : {
+        "name" : "Ahelee Bhattacharya",
+        "hackathons" : [
+            {
+                "name" : "Hack Your Portfolio",
+                "prize" : "Best Use of Google Cloud",
+                "link" : "https://hackyourportfolio.devpost.com/"
+            },
+            {
+                "name" : "WiCHacks 2021",
+                "prize" : "WiC: Most Innovative Hack",
+                "link" : "https://wichacks-2021.devpost.com/"
+            },
+            {
+                "name" : "T9Hacks 2021",
+                "prize" : "echoAR Award",
+                "link" : "https://t9hacks-2021.devpost.com/"
+            }
+        ]
+    },
+    "midhat" : {
+        "name" : "Midhat Alkhateeb",
+        "hackathons" : [
+            {
+                "name" : "Snakes and Hackers",
+                "prize" : "3rd overall",
+                "link" : "https://snakesandhackers.devpost.com/"
+            }
+        ]
+    },
+    "malak" : {
+        "name" : "Malak Abdeldayem",
+        "hackathons" : [
+            {
+                "name" : "WilsonHacks 2021",
+                "prize" : "Best Individual Hack",
+                "link" : "https://wilsonhacks.devpost.com"
+            }
+        ]
+    },
+    "musty" : {
+        "name" : "Musty",
+        "hackathons" : [
+            {
+                "name" : "ThetaHacks 2021",
+                "prize" : "Best Duo Hack",
+                "link" : "https://thetahacks.devpost.com/"
+            },
+            {
+                "name" : "AngelHacks 2.0",
+                "prize" : "Best Education Hack & Anomaly Science Partnership",
+                "link" : "https://angelhacks-2.devpost.com/"
+            },
+            {
+                "name" : "DeltaHacks 7",
+                "prize" : "Best domain from Domain.com",
+                "link" : "https://deltahacks7.devpost.com/"
+            }
+        ]
+    },
+    "avinash" : {
+        "name" : "Avinash Upadhyaya",
+        "hackathons" : [
+            {
+                "name" : "cuHacking 2021",
+                "prize" : "Best Domain from domain.com and Best Green Hack",
+                "link" : "https://2021.cuhacking.com"
+            },
+            {
+                "name" : "TAMUhack 2021",
+                "prize" : "Hewlett Packard Enterprise Challenge ",
+                "link" : "https://tamuhack2021.devpost.com"
+            },
+            {
+                "name" : "HackVerse 2.0",
+                "prize" : "Best domain from GoDaddy",
+                "link" : "https://hackverse.nitk.ac.in"
+            }
+        ]
+    },
+    "indrashis" : {
+        "name" : "Indrashis Mitra",
+        "hackathons" : [
+            {
+                "name" : "Hack For Africa- A Microsoft Challenge",
+                "prize" : "Best Out of the Box Hack",
+                "link" : "https://hackforafrica.devpost.com/"
+            },
+            {
+                "name" : "Philly Codefest 2020",
+                "prize" : "Collaborative Award, Best Hack for Social Good, Bring ESG funds to the spotlight (Vanguard) ",
+                "link" : "https://philly-codefest-2020.devpost.com/"
+            },
+ {
+                "name" : "HackPSU Fall 2020",
+                "prize" : "HackPSU Environmental Change",
+                "link" : "https://hackpsu-fall-2020.devpost.com/"
+            },
+            {
+                "name" : "QODE Internet Fest",
+                "prize" : "Special Mention",
+                "link" : "https://qode.devpost.com/"
+            }
+        ]
+    }   
+}
